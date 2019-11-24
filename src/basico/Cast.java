@@ -1,3 +1,5 @@
+package basico;
+
 public class Cast {
     public static void main(String[] args) {
         float valor = 1.9F;

@@ -1,3 +1,5 @@
+package basico;
+
 /**
  * No pueden empezar por número.
  * No pueden repetir misma nombre (Scope)
