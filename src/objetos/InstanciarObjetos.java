@@ -18,6 +18,7 @@ public class InstanciarObjetos {
         System.out.println(".equals(): " + s.equals(s));
         System.out.println(".equalsIgnoreCase(): " +s.equalsIgnoreCase(s));
         System.out.println(".substring(int start): " + s.substring(3));
+        System.out.println(".substring(int start, int end): " + s.substring(4, 4));
         System.out.println(".starsWith(String s): " + s.startsWith("hola"));
         System.out.println(".endWith(String s): " + s.endsWith("sentido"));
         System.out.println(".contains(String s): " + s.contains("no"));
