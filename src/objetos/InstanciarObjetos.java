@@ -7,7 +7,7 @@ public class InstanciarObjetos {
 
         String s = new String();
 
-        s = "hola esta asignacion no tiene sentido";
+        s = "hola esta asignación no tiene sentido";
 
         //Metodos interesantes de String
         System.out.println(".length() saber longitud: " + s.length() );
@@ -28,7 +28,7 @@ public class InstanciarObjetos {
         System.out.println("################### StringBuilder ###################");
 
         //Objeto para crear Strings
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder("adios");
 
         sb.append("hola");
         sb.append(" ");
